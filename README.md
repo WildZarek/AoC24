@@ -1,16 +1,15 @@
 # Advent of Code 2024
 
-**Advent of Code** is an Advent calendar of small programming puzzles
-for a variety of skill levels that can be solved in any programming language you like.
-People use them as interview prep, company training, university coursework, practice problems,
-a speed contest, or to challenge each other.
+**Advent of Code** is an Advent calendar of small programming puzzles for a variety of skill levels<br>
+that can be solved in any programming language you like.
+People use them as interview prep, company training,<br>
+university coursework, practice problems, a speed contest, or to challenge each other.
 
 # What is this repo?
 
 This repo contains my personal answers to all of the problems proposed by **Advent of Code**.
-
+<br>
 You can check the commits or the list below to know which has been completed.
-I also propose to viewers get down to coding themselves.
 
 # 42 AoC I 2024
 
