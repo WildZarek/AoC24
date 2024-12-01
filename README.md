@@ -1,4 +1,4 @@
-# Advent of Code 2024
+# Advent of Code
 
 [**Advent of Code**](https://adventofcode.com/) is an *Advent calendar* of small programming puzzles for a variety of skill levels<br>
 that can be solved in *any* programming language you like. People use them as *interview prep*,<br>
