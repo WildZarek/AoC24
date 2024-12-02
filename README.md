@@ -21,7 +21,7 @@ This year is the first competition between 42 Network (Spain). Campuses particip
 ## Advent of code problems solved
 
 * [**2024**](https://adventofcode.com/)
-    * /
+    * / Day 1 - CURRENT
 * [**2023**](https://adventofcode.com/2023)
     * /
 * [**2022**](https://adventofcode.com/2022)
